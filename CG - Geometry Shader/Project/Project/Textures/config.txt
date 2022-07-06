@@ -1,0 +1,13 @@
+#comentarios_devem_ser_feitos_sem_espaços_e_com_#_no_inicio
+#
+#
+#light_color
+1.0 1.0 1.0
+#coordendas_posicao_arvore:
+3.1 -0.6 -6.0
+#
+#vertices_do_chao(plane)
+3.0 -0.5 3.0
+#
+#coordendas_iniciis_posicao_sol:
+0.0 4.0 0.0

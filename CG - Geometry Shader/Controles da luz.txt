@@ -1,0 +1,10 @@
+Teclas - Ação
+
+1 	- movimento horizontal
+2 	- movimento vertical
+3 	- movimento de profundidade
+4 	- parar na origem
+5 	- parar onde está
+O,+ 	- aumentar velocidade
+L,- 	- diminuir velocidade
+Enter - resetar velocidade

@@ -1,0 +1,14 @@
+#comentrios_devem_ser_feitos_sem_espaços_e_com_#_no_inicio
+#
+#
+#Caminho_comum(se_nao_for_utilizar_caminho_Comum_preencha_com_"n"_sem_aspas):
+Textures/
+#
+#Ground
+grass.png
+#
+#Object
+object.png
+#
+#Sun
+sun.png
